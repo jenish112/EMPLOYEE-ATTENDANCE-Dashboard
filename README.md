@@ -1,8 +1,8 @@
-# Employee Attendance Dashboard
+# HR Analytics Dashboard
 
 ## Introduction
 
-Welcome to the **Employee Attendance Dashboard** project, a dynamic platform that brings together sales data from various categories, regions, and periods to provide a holistic view of our superstore's performance. Based on my analysis, I found various visualizations and data insights created using Power BI Desktop for sales and profit data.
+Welcome to the **HR Analytics Dashboard** project, an implemented comprehensive HR Analytics project for ATLIQ using Power BI. This initiative involved gathering and analyzing diverse HR data sets to derive valuable insights for strategic decision-making. The project focused on key areas such as employee performance, retention, and talent acquisition. Utilizing Power BI's robust visualization capabilities, the project delivered intuitive dashboards and reports, providing ATLIQ's leadership with actionable insights into workforce trends, and enabling informed decision-making for enhanced organizational performance and employee satisfaction.
 
 ## Key Insights:
 * Developed and implemented a robust employee attendance dashboard leveraging Power BI, resulting in a 20% reduction in absenteeism and a 15% increase in overall productivity within the organization. 
